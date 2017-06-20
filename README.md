@@ -4,6 +4,8 @@
 [![Build Status](https://travis-ci.org/keystonejs/keystone.svg?branch=master)](https://travis-ci.org/keystonejs/keystone)
 
 [KeystoneJS](http://keystonejs.com) is a powerful Node.js content management system and web app framework built on [express](http://expressjs.com) and [mongoose](http://mongoosejs.com). Keystone makes it easy to create sophisticated web sites and apps, and comes with a beautiful auto-generated Admin UI.
+[![Dependencies Status](https://david-dm.org/twelve-net-co/keystone.svg)](https://david-dm.org/twelve-net-co/keystone)
+
 
 Check out [keystonejs.com](http://keystonejs.com) for documentation and guides.
 
